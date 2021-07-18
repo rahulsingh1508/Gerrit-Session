@@ -1,0 +1,56 @@
+{
+  'leads': 4
+  'to': 4
+  'anger': 2
+  'conflict': 2
+  'hatred': 2
+  'Fear': 1
+  'suffering': 1
+}
+
+{
+  'all': 2
+  'hang': 2
+  'We': 1
+  'assuredly': 1
+  'indeed': 1
+  'most': 1
+  'must': 1
+  'or': 1
+  'separately': 1
+  'shall': 1
+  'together': 1
+  'we': 1
+}
+
+{
+  'the': 6
+  'ring': 5
+  'I': 4
+  'would': 3
+  'gave': 3
+  'If': 2
+  'And': 2
+  'you': 2
+  'whom': 2
+  'know': 2
+  'did': 2
+  'for': 2
+  'of': 1
+  'your': 1
+  'strength': 1
+  'to': 1
+  'unwillingly': 1
+  'what': 1
+  'naught': 1
+  'left': 1
+  'how': 1
+  'displeasure': 1
+  'conceive': 1
+  'but': 1
+  'be': 1
+  'accepted': 1
+  'abate': 1
+  'You': 1
+  'When': 1
+}
